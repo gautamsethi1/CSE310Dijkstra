@@ -2,6 +2,8 @@ Bruh i swear this shit take so long
 
 dude maybe i should just sleep rn
 
+Sooooo I dont care
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
