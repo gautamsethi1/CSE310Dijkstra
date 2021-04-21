@@ -1,21 +1,4 @@
-Bruh i swear this shit take so long
-
-dude maybe i should just sleep rn
-
-Sooooo I dont care
-
-njfneajkfbjkebfjklqwebfjqwebfijwqebfj2ebfoj2nj2bifou  2b;ifhpb  qep[iojf  iufb  oekf  2ij380u 2bfkj2  b f 2
-f2  f2  3fiub23iofu2  f[2 3
-f2  3f
-2'3f;p2 3bfiu2n3fkh2 3vf8yg2fpi wejofg239ufnq 3kl;fbq 3iruq f
-q3q3fq3f
-q3
-f
-q
-f3jq3kfnqklfnkqnfkqnfkqnfq
-fd
-qf3qk3fklqnnekefnekf
-
+So I am freeeing heap memory. But when I free through
 
 # Getting Started with Create React App
 
