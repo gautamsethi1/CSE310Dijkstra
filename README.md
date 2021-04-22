@@ -1,4 +1,4 @@
-So I am freeeing heap memory. But when I free through
+Done
 
 # Getting Started with Create React App
 
